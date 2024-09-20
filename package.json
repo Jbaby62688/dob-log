@@ -1,0 +1,17 @@
+{
+  "name": "@dob/log",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "log4js": "^6.9.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
